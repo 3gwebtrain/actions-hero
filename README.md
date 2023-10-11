@@ -1,2 +1,3 @@
 # actions-hero
-Github actions
+
+Github actions repo used to learn the github actions
